@@ -46,7 +46,7 @@ Want to take your Watson app to the next level? Looking to leverage Watson Brand
 Use the ``Deploy to Bluemix`` button **OR** create the services and run locally.
 
 ## Deploy to Bluemix
-[![Deploy to Bluemix](https://metrics-tracker.mybluemix.net/stats/527357940ca5e1027fbf945add3b15c4/button.svg)](https://bluemix.net/deploy?repository=https://github.com/IBM/watson-banking-chatbot.git)
+[![Deploy to Bluemix](https://metrics-tracker.mybluemix.net/stats/527357940ca5e1027fbf945add3b15c4/button.svg)](https://bluemix.net/deploy?repository=https://github.com/mzzhao/watson-banking-chatbot.git)
 
 1. Press the above ``Deploy to Bluemix`` button and then click on ``Deploy``.
 
